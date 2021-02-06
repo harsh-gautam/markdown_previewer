@@ -132,7 +132,7 @@ And here. | Okay. | I think we get it.
                             // handleKeyDown={this.handleKeyDown}
                             />
                         </div>
-                        <div className="col-sm-12 col-md-6 pr-md-5">
+                        <div className="col-sm-12 col-md-6 pr-md-5 mt-sm-5 mt-md-0">
                             <PreviewComponent
                                 previewText={this.state.input}
                             />
