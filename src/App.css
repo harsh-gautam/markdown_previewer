@@ -2,6 +2,10 @@
     background-color:#b3e5fc;
 }
 
+code, pre{
+    background-color: aliceblue;
+}
+
 .navbar {
     background-color: #0064b7;
     color: #fff;
