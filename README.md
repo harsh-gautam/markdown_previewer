@@ -4,6 +4,8 @@ A react app that previews that markdown text in realtime.
 
 This project was made for an excercise from [FreeCodeCamp Front End Libraries Projects](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)
 
+[Demo](https://harsh-gautam.github.io/markdown_previewer)
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
